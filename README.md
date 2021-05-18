@@ -2,9 +2,11 @@
 Creating a new Civilization for the game Civ 6 using the modding tools and SQL database.
 
 Using the tutorials found on Keniisu's Youtube Channel:
+
 https://www.youtube.com/watch?v=MkA2JrgXbrc&ab_channel=Keniisu
 
 And the resources on the CivFanatics pages:
+
 https://forums.civfanatics.com/resources/categories/civ6-modding-tutorials-reference.150/
 
 ## Loading Screen with Civ Details:
